@@ -1,1 +1,11 @@
 Variables store data of different types , and different types can do different things.
+
+---------------------------------------
+Text Type : str 
+Numeric Types : int, float , complex
+Sequence Types : list , tuple, range
+Mapping : dict
+Set : set , frozenset
+Booleam : bool 
+Binary : bytes, bytearray, memoryview
+None : NoneType.
