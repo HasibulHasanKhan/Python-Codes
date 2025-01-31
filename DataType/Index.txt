@@ -9,3 +9,14 @@ Set : set , frozenset
 Booleam : bool 
 Binary : bytes, bytearray, memoryview
 None : NoneType.
+----------------------------------------
+Python data type : 
+
+Text type: str 
+Numeric type: int , float, complex
+Sequence Type: list, tuple, range
+Mapping Type: dict
+Set Type: set, frozenset
+Booleam Type: bool
+Binary Type: bytes, bytearray, memoryview
+None Type: NoneType 
