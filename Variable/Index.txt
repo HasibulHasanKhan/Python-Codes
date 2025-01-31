@@ -1,7 +1,0 @@
-/*
- varibale are case sensitive . 
-
- ---------------
- -> Global Keyword :
- To create a global variable inside a function , we can use the global Keyword.
-/
