@@ -1,0 +1,5 @@
+* import only the person1 dictionary from the module.
+
+* import platform
+
+import as mymodule as mx
