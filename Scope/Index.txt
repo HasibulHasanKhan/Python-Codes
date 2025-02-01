@@ -1,0 +1,2 @@
+nonlocal keyword is used to work with varibales inside nested functions.
+The nonlocal keyword makes the varibales belong to the outer function.
