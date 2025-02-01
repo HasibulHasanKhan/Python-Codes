@@ -1,0 +1,8 @@
+Python Collection :
+
+There are four Collection data types in the Python programming language.
+
+List : is a Collection which is ordered and changeable. Allows duplicate members.
+Tuple : is a Collection which is ordered and unchangeable. Allows dublicate members.
+Set : is a Collection which is unordered, unchangeable* , and unindexed. No dublicate members.
+Dictonary : is a Collection which is ordered** and changeable . No dublicate members.
