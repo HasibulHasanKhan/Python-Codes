@@ -1,0 +1,11 @@
+we can convert Python objects of the following types, into JSON strings:
+
+dict 
+list
+tuple
+string
+int
+float
+True
+False
+None
