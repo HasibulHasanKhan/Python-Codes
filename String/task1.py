@@ -21,3 +21,7 @@
 # print(len(a))
 
 #--------------------------
+
+txt = "The name of our country is Bangladesh"
+
+print("is" in txt)
