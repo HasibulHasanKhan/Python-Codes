@@ -23,4 +23,11 @@
 
 # myFunc4(fname = "Tobias", lname = "Refsnes")
 
-##
+##default value as a prarameter :
+
+def myFunc5(country = "Norway"):
+    print("I am from " + country)
+
+myFunc5("Sweden")
+myFunc5("Bangladesh")
+myFunc5("England")
