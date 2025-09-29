@@ -47,6 +47,26 @@
 ## , / are used to allowed to positional argument.
 
 ## * used for only keyword argument .
-def myFun8(*, x):
-    print(x)
-myFun8( x = 7)
+# def myFun8(*, x):
+#     print(x)
+# myFun8( x = 7)
+
+## Combine Positional Only and Kewword Only.
+
+# def myFunc9(a, b, /, *, c, d):
+#     print(a + b + c + d)
+
+# myFunc9(5, 6, c = 7, d = 8)
+
+## Recursion .
+
+def tri_recursion(k):
+    if(k > 0):
+        result = k + tri_recursion(k - 1)
+        print(result)
+    else:
+        result = 0 
+    return result
+
+print("Recursion Example Results:")
+tri_recursion(7)
