@@ -1,0 +1,6 @@
+* Python Liberies for APIs :
+-> reques -> simplest and most used.
+-> httpx -> async support, faster.
+-> urlib -> build-in, but more complex.
+-> aiohttp -> for asynchronous calls.
+
